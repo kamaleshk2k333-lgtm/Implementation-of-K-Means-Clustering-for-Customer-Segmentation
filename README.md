@@ -22,7 +22,7 @@ Program to implement the K Means Clustering for Customer Segmentation.
 Developed by: kamaleshkumar k
 RegisterNumber: 25012000 
 */
-```
+
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
@@ -64,7 +64,7 @@ plt.xlabel('Annual Income (k$)')
 plt.ylabel('Spending Score (1-100)')
 plt.legend()
 plt.show()
-
+```
 
 ## Output:
 <img width="721" height="146" alt="561340185-8b6e3adc-7abe-4a93-a486-dc8a81ebb7d0" src="https://github.com/user-attachments/assets/fc74d881-abcf-4b6f-bae7-61f767d7f804" />
